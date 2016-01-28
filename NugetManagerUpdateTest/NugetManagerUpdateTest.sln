@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetManagerUpdateTest", "NugetManagerUpdateTest.csproj", "{33096735-C242-4A5A-A602-3EBB70D3104E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C28D6558-B169-480A-BEDF-882A593C8C0D}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+		..\UpdateScreenShot.png = ..\UpdateScreenShot.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33096735-C242-4A5A-A602-3EBB70D3104E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33096735-C242-4A5A-A602-3EBB70D3104E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33096735-C242-4A5A-A602-3EBB70D3104E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33096735-C242-4A5A-A602-3EBB70D3104E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
